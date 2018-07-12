@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Tomáš Procházka</title>
-    <link>http://tprochazka.com/categories/</link>
+    <link>http://prochac.github.io/categories/</link>
     <description>Recent content in Categories on Tomáš Procházka</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>cz-cs</language>
     
-	<atom:link href="http://tprochazka.com/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://prochac.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

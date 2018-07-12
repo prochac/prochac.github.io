@@ -3,41 +3,41 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://tprochazka.com/project/project01/</loc>
+    <loc>http://prochac.github.io/project/project01/</loc>
   </url>
   
   <url>
-    <loc>http://tprochazka.com/categories/</loc>
+    <loc>http://prochac.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://tprochazka.com/tags/eet/</loc>
+    <loc>http://prochac.github.io/tags/eet/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://tprochazka.com/tags/go/</loc>
+    <loc>http://prochac.github.io/tags/go/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://tprochazka.com/tags/golang/</loc>
+    <loc>http://prochac.github.io/tags/golang/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://tprochazka.com/project/</loc>
+    <loc>http://prochac.github.io/project/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://tprochazka.com/tags/</loc>
+    <loc>http://prochac.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://tprochazka.com/</loc>
+    <loc>http://prochac.github.io/</loc>
     <priority>0</priority>
   </url>
   
