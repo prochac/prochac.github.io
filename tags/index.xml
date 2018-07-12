@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Tomáš Procházka</title>
-    <link>http://prochac.github.io/tags/</link>
+    <link>https://prochac.github.io/tags/</link>
     <description>Recent content in Tags on Tomáš Procházka</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>cz-cs</language>
     
-	<atom:link href="http://prochac.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://prochac.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Eet</title>
-      <link>http://prochac.github.io/tags/eet/</link>
+      <link>https://prochac.github.io/tags/eet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://prochac.github.io/tags/eet/</guid>
+      <guid>https://prochac.github.io/tags/eet/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Go</title>
-      <link>http://prochac.github.io/tags/go/</link>
+      <link>https://prochac.github.io/tags/go/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://prochac.github.io/tags/go/</guid>
+      <guid>https://prochac.github.io/tags/go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Golang</title>
-      <link>http://prochac.github.io/tags/golang/</link>
+      <link>https://prochac.github.io/tags/golang/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://prochac.github.io/tags/golang/</guid>
+      <guid>https://prochac.github.io/tags/golang/</guid>
       <description></description>
     </item>
     
